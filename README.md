@@ -6,7 +6,7 @@ Read code, get better.
 
 Reading good stuff is a good way to figure out how to write good stuff. As coders, we spend a lot of time reading code but there's no training out there to help us do it well. Even a 10% improvement at a programmer's ability to read code would translate into significant time savings in a short space of time.
 
-## How
+## How
 
 MVP.
 
